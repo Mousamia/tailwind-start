@@ -6,3 +6,5 @@ module.exports = {
     },
     plugins: [],
   }
+
+// this file was created for configuring *Tailwind CSS Intellisense* config
